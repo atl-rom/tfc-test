@@ -1,2 +1,2 @@
 # tfc-test
-test for terraform cloud
+test for terraform cloud + github actions
